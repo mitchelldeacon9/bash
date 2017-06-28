@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script generates a report of system data
+# This script generates a report of system data: OS version, hardware information
 # Script must run as superuser (sudo)
 # For full output, you must install these utilities: lshw, lsscsi, smartmontools
 
